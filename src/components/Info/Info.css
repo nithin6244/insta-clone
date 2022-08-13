@@ -1,0 +1,14 @@
+.info {
+    display: flex;
+    padding-right: 3em;
+    margin: 1em 0;
+}
+
+.info__number {
+    font-weight: bold;
+    padding-right: .5em;
+}
+
+.info__name {
+    
+}
